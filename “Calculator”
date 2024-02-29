@@ -3,7 +3,4 @@ using namespace std;
 int main(){
 cout<<"Muhammad yousaf";
 cout<<"23_SET_050";
-
-
-
-
+cout<<"the Addition of to number A and b "<<a+b;
